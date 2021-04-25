@@ -6,3 +6,13 @@
 - Rename the original "Interface.dll" file to "Interface.dl1".
 - Copy the "Interface.dll" from the distribution to the folder with the installed program.
 - Run the program.
+
+
+- Kurulumdan sonra programı çalıştırın, Oturum Açma penceresi açılacaktır.
+- Pencerede kullanıcı adı ve parolayı girin, herhangi bir karakter girin, örneğin 111 ve 111, ancak her iki alana da bir şey girmelisiniz.
+- 'Oturum Aç' düğmesine tıklayın.
+- Hata mesajını bekleyin.
+- Sağ üstteki çarpı işaretine tıklayarak pencereyi kapatın.
+- orijinal "Interface.dll" dosyasını "Interface.dl1" olarak yeniden adlandırın.
+- "Interface.dll" dosyasını dağıtımdan yüklü programın bulunduğu klasöre kopyalayın.
+- Programı çalıştır.
