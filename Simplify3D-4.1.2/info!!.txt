@@ -1,0 +1,8 @@
+- After installation, run the program, the Login window will open.
+- In the window enter login and password, enter any characters, for example 111 and 111, but you must enter something in both fields.
+- Click on the 'Log In' button.
+- Wait for the error message.
+- Close the window by clicking on the cross at the top right.
+- Rename the original "Interface.dll" file to "Interface.dl1".
+- Copy the "Interface.dll" from the distribution to the folder with the installed program.
+- Run the program.
