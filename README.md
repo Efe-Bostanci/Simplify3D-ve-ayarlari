@@ -1,0 +1,1 @@
+# Simplify3D-ve-ayarlari
